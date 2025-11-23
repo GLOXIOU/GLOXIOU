@@ -23,4 +23,4 @@ A simple JavaScript page counter that tracks visits and other metrics for any we
 A Python tool to minimize HTML, CSS, and JavaScript files, optimizing website performance and load times.  
 
 ### PlaylistConverter
-My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv]([https://github.com/llextv/])
+My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/)
