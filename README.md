@@ -24,3 +24,6 @@ A Python tool to minimize HTML, CSS, and JavaScript files, optimizing website pe
 
 ### PlaylistConverter
 My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/).
+
+### [ultimate-compressor](https://github.com/GLOXIOU/ultimate-compressor)
+An application for compressing any type of file using JS. (My first electron JS app)
