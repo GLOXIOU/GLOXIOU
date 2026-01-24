@@ -27,3 +27,6 @@ My biggest project. It's a web application that lets you do all sorts of things 
 
 ### [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool)
 An application with which you can do a lot of things on your files. (My first electron JS app)
+
+### [random-game](https://github.com/GLOXIOU/random-game)
+A random game finder for you to play with your friends, using Node JS, HTML, CSS and JS.
