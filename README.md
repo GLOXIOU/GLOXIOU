@@ -6,8 +6,8 @@ I'm an enthusiastic French developer passionate about web technologies and autom
 
 ## 🛠️ Technologies & Skills
 - **Frontend:** HTML, CSS, JavaScript (I don't like JavaScript)
-- **Backend & Scripting:** Python
-- **Tools & Utilities:** Discord bots, web metrics, code minimizers
+- **Backend & Scripting:** Python, Node JS
+- **Tools & Utilities:** Discord bots, web metrics, code minimizers, database, and even more !
 
 ---
 
