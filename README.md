@@ -30,3 +30,6 @@ An application with which you can do a lot of things on your files. (My first el
 
 ### [random-game](https://github.com/GLOXIOU/random-game)
 A random game finder for you to play with your friends, using Node JS, HTML, CSS and JS.
+
+### [average-calculator](https://github.com/GLOXIOU/average-calculator)
+A simple HTML/CSS/JS tool that calculates weighted grade averages based on subjects and coefficients, with CSV import/export and a clean, intuitive interface.
