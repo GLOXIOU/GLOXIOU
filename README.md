@@ -33,3 +33,6 @@ A random game finder for you to play with your friends, using Node JS, HTML, CSS
 
 ### [average-calculator](https://github.com/GLOXIOU/average-calculator)
 A simple HTML/CSS/JS tool that calculates weighted grade averages based on subjects and coefficients, with CSV import/export and a clean, intuitive interface.
+
+### BrainRot Star
+My first web game. An opportunity to develop a video game was to propose it, so I was able to discover this universe ! It's a card game where you can open crates and fight with your cards against your friends. Made with [llextv](https://github.com/llextv/).
