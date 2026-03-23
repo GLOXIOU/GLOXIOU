@@ -36,3 +36,6 @@ A simple HTML/CSS/JS tool that calculates weighted grade averages based on subje
 
 ### [BrainRot Star](https://schoolllex.github.io/BrainrotStars/index/index.html)
 My first web game. An opportunity to develop a video game was to propose it, so I was able to discover this universe ! It's a card game where you can open crates and fight with your cards against your friends. Made with [llextv](https://github.com/llextv/).
+
+### [TodoLister](https://github.com/GLOXIOU/TodoLister)
+A homme maid version of Trello, but for developpers. With this project, you can manage to-do lists, notes, and more across multiple projects and share them with other developers. Everything works securely.
