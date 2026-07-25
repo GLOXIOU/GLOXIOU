@@ -21,7 +21,7 @@ A Discord bot that fetches and sends the latest products from Vinted automatical
 ### [visitor-counter](https://github.com/GLOXIOU/visitor-counter)
 A simple JavaScript page counter that tracks visits and other metrics for any website using just an embedded tag.  
 
-### [PlaylistConverter](https://lifesantosfr.alwaysdata.net/index/index.html)
+### PlaylistConverter
 My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/).
 
 ### [BrainRot Star](https://schoolllex.github.io/BrainrotStars/index/index.html)
@@ -29,6 +29,9 @@ My first web game. An opportunity to develop a video game was to propose it, so 
 
 ### FastCatch
 FastCatch takes the original code from my very first project, discord-vinted, but improves it. It's now a web interface that supports "leboncoin".
+
+### TodoLister
+A web app like Trello, but improved and designed for developers. A comprehensive project management tool with project sharing capabilities.
 
 ### Some litlle projects
 [minimizer-HTML-CSS-JS](https://github.com/GLOXIOU/minimizer-HTML-CSS-JS), [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool), [average-calculator](https://github.com/GLOXIOU/average-calculator), [random-game](https://github.com/GLOXIOU/random-game), [BayMaker](https://github.com/GLOXIOU/BayMaker), [TimeTracker](https://github.com/GLOXIOU/TimeTracker), [commentairetexte-learner](https://github.com/GLOXIOU/commentairetexte-learner) and so much more !
