@@ -33,5 +33,8 @@ FastCatch takes the original code from my very first project, discord-vinted, bu
 ### TodoLister
 A web app like Trello, but improved and designed for developers. A comprehensive project management tool with project sharing capabilities.
 
+### [tidal-dowloader](https://github.com/GLOXIOU/tidal-dowloader)
+A web app for quickly downloading high-quality audio files using a Tidal subscription. Based on code by @yaronzz.
+
 ### Some litlle projects
-[minimizer-HTML-CSS-JS](https://github.com/GLOXIOU/minimizer-HTML-CSS-JS), [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool), [average-calculator](https://github.com/GLOXIOU/average-calculator), [random-game](https://github.com/GLOXIOU/random-game), [BayMaker](https://github.com/GLOXIOU/BayMaker), [TimeTracker](https://github.com/GLOXIOU/TimeTracker), [commentairetexte-learner](https://github.com/GLOXIOU/commentairetexte-learner) and so much more !
+[minimizer-HTML-CSS-JS](https://github.com/GLOXIOU/minimizer-HTML-CSS-JS), [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool), [average-calculator](https://github.com/GLOXIOU/average-calculator), [random-game](https://github.com/GLOXIOU/random-game), [BayMaker](https://github.com/GLOXIOU/BayMaker), [TimeTracker](https://github.com/GLOXIOU/TimeTracker), [commentairetexte-learner](https://github.com/GLOXIOU/commentairetexte-learner), shazam-to-platform, and so much more !
