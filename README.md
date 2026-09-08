@@ -24,8 +24,8 @@ A simple JavaScript page counter that tracks visits and other metrics for any we
 ### PlaylistConverter
 My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/).
 
-### [BrainRot Star](https://schoolllex.github.io/BrainrotStars/index/index.html)
-My first web game. An opportunity to develop a video game was to propose it, so I was able to discover this universe ! It's a card game where you can open crates and fight with your cards against your friends. Made with [llextv](https://github.com/llextv/).
+### [PlayWeb + some games](https://schoolllex.github.io/BrainrotStars/index/index.html)
+My first web game. An opportunity to develop some video game was to propose it, so I was able to discover this universe ! There is also my version of Steam. Made with [llextv](https://github.com/llextv/).
 
 ### FastCatch
 FastCatch takes the original code from my very first project, discord-vinted, but improves it. It's now a web interface that supports "leboncoin".
@@ -35,6 +35,9 @@ A web app like Trello, but improved and designed for developers. A comprehensive
 
 ### [tidal-dowloader](https://github.com/GLOXIOU/tidal-dowloader)
 A web app for quickly downloading high-quality audio files using a Tidal subscription. Based on code by @yaronzz.
+
+### [DIY projects]
+There are many DIY projects I want to undertake. All the projects are documented.
 
 ### Some litlle projects
 [minimizer-HTML-CSS-JS](https://github.com/GLOXIOU/minimizer-HTML-CSS-JS), [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool), [average-calculator](https://github.com/GLOXIOU/average-calculator), [random-game](https://github.com/GLOXIOU/random-game), [BayMaker](https://github.com/GLOXIOU/BayMaker), [TimeTracker](https://github.com/GLOXIOU/TimeTracker), [commentairetexte-learner](https://github.com/GLOXIOU/commentairetexte-learner), shazam-to-platform, and so much more !
