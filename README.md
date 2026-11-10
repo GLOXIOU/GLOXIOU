@@ -36,6 +36,9 @@ A web app like Trello, but improved and designed for developers. A comprehensive
 ### [tidal-dowloader](https://github.com/GLOXIOU/tidal-dowloader)
 A web app for quickly downloading high-quality audio files using a Tidal subscription. Based on code by @yaronzz.
 
+### [AI.cut](https://github.com/GLOXIOU/AI.cut)
+A video editing software powered entirely by AI, featuring capabilities such as motion design and much more.
+
 ### DIY projects
 There are many DIY projects I want to undertake. All the projects are documented.
 
