@@ -2,13 +2,11 @@
 
 I'm an enthusiastic French developer passionate about web technologies and automation. I enjoy building tools and projects that simplify tasks and showcase clean, efficient code.
 
-If you like my frontend design, you can check the [UI_Design_1.md](https://github.com/GLOXIOU/GLOXIOU/blob/main/UI_Design_1.md) or [UI_Design_2.md](https://github.com/GLOXIOU/GLOXIOU/blob/main/UI_Design_2.md) files !
-
 ---
 
 ## 🛠️ Technologies & Skills
-- **Frontend:** HTML, CSS, JavaScript (I don't like JavaScript)
-- **Backend & Scripting:** Python, Node JS
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend & Scripting:** Python, Node JS, Électron JS, MySQL
 - **Tools & Utilities:** Discord bots, web metrics, code minimizers, database, and even more !
 
 ---
@@ -22,7 +20,7 @@ A Discord bot that fetches and sends the latest products from Vinted automatical
 A simple JavaScript page counter that tracks visits and other metrics for any website using just an embedded tag.  
 
 ### PlaylistConverter
-My biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/).
+One of my biggest project. It's a web application that lets you do all sorts of things with music playlists on different platforms. Transfer them, create cross-platform sharing links, export them to CSV, and much more. Made with [llextv](https://github.com/llextv/).
 
 ### [PlayWeb + some games](https://schoolllex.github.io/BrainrotStars/index/index.html)
 My first web game. An opportunity to develop some video game was to propose it, so I was able to discover this universe ! There is also my version of Steam. Made with [llextv](https://github.com/llextv/).
@@ -36,11 +34,11 @@ A web app like Trello, but improved and designed for developers. A comprehensive
 ### [tidal-dowloader](https://github.com/GLOXIOU/tidal-dowloader)
 A web app for quickly downloading high-quality audio files using a Tidal subscription. Based on code by @yaronzz.
 
-### [AI.cut](https://github.com/GLOXIOU/AI.cut)
-A video editing software powered entirely by AI, featuring capabilities such as motion design and much more.
-
 ### DIY projects
-There are many DIY projects I want to undertake. All the projects are documented.
+There are many DIY projects I want to undertake. All the projects are documented. [DMX-Unit-DIY](https://github.com/GLOXIOU/DMX-Unit-DIY) ; [HandBrake-DIY](https://github.com/GLOXIOU/Handbrake-DIY) ; [MIDI-Controller-DIY](https://github.com/GLOXIOU/MIDI-controller-DIY)
+
+### [AI.cut](https://github.com/GLOXIOU/AI.cut)
+One of my biggest project. A video editing software powered entirely by AI, featuring capabilities such as motion design and much more.
 
 ### Some litlle projects
 [minimizer-HTML-CSS-JS](https://github.com/GLOXIOU/minimizer-HTML-CSS-JS), [ultimate-file-tool](https://github.com/GLOXIOU/ultimate-file-tool), [average-calculator](https://github.com/GLOXIOU/average-calculator), [random-game](https://github.com/GLOXIOU/random-game), [BayMaker](https://github.com/GLOXIOU/BayMaker), [TimeTracker](https://github.com/GLOXIOU/TimeTracker), [commentairetexte-learner](https://github.com/GLOXIOU/commentairetexte-learner), shazam-to-platform, and so much more !
