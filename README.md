@@ -35,7 +35,7 @@ A web app like Trello, but improved and designed for developers. A comprehensive
 A web app for quickly downloading high-quality audio files using a Tidal subscription. Based on code by @yaronzz.
 
 ### DIY projects
-There are many DIY projects I want to undertake. All the projects are documented. [DMX-Unit-DIY](https://github.com/GLOXIOU/DMX-Unit-DIY) ; [HandBrake-DIY](https://github.com/GLOXIOU/Handbrake-DIY) ; [MIDI-Controller-DIY](https://github.com/GLOXIOU/MIDI-controller-DIY)
+There are many DIY projects I want to undertake. All the projects are documented. [DMX-Unit-DIY](https://github.com/GLOXIOU/DMX-Unit-DIY), [HandBrake-DIY](https://github.com/GLOXIOU/Handbrake-DIY), [MIDI-Controller-DIY](https://github.com/GLOXIOU/MIDI-controller-DIY)
 
 ### [AI.cut](https://github.com/GLOXIOU/AI.cut)
 One of my biggest project. A video editing software powered entirely by AI, featuring capabilities such as motion design and much more.
